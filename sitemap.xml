@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://amitdigitalgrowth.com/</loc></url>
-  <url><loc>https://amitdigitalgrowth.com/about.html</loc></url>
-  <url><loc>https://amitdigitalgrowth.com/services.html</loc></url>
-  <url><loc>https://amitdigitalgrowth.com/portfolio.html</loc></url>
-  <url><loc>https://amitdigitalgrowth.com/contact.html</loc></url>
+
+  <url>
+    <loc>https://amitchavda8889.github.io/amit-digital-growth/</loc>
+  </url>
+
+  <url>
+    <loc>https://amitchavda8889.github.io/amit-digital-growth/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://amitchavda8889.github.io/amit-digital-growth/services.html</loc>
+  </url>
+
+  <url>
+    <loc>https://amitchavda8889.github.io/amit-digital-growth/portfolio.html</loc>
+  </url>
+
+  <url>
+    <loc>https://amitchavda8889.github.io/amit-digital-growth/contact.html</loc>
+  </url>
+
 </urlset>
